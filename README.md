@@ -1,35 +1,27 @@
 ![Amin Torbat — Full-stack / Product Builder. Products, code, open source.](assets/banner.png)
 
-I build full-stack products, from the interface to the systems behind it.
-
-My current work centers on customer management and community tools.
+I build web products and the backend systems behind them.
 
 ## Selected work
 
-### PEYAR
+### PEYAR · Customer management
 
-Customer relationship management for small businesses: customers, sales stages, activity history, and follow-ups in one workspace.
+A CRM for small businesses, bringing customers, sales stages, activity history, and follow-ups into one workspace.
 
-`TypeScript` · `Next.js` · `PostgreSQL` · `Prisma`
+`TypeScript` · `Next.js` · `PostgreSQL` · `Prisma`  
+<sub>Active development · Private source</sub>
 
-Currently building and refining the product. **Private source.**
+### Guardora · Community tools
 
-### Guardora
+Telegram moderation and group management, with persistent settings and permission-aware controls.
 
-Telegram community tools for moderation and group management, with persistent settings and permission-aware controls.
+`Python` · `PostgreSQL` · `Telegram Bot API`  
+<sub>Active beta · Private source</sub>
 
-`Python` · `PostgreSQL` · `Telegram Bot API`
+**Public projects** ↗ [Auto File Organizer](https://github.com/amintorbat/auto_file_organizer) · [IoT Edge Sentinel](https://github.com/amintorbat/iot_edge_sentinel)
 
-In active beta development. **Private source.**
-
-## Open source
+## Open source & engineering
 
 Contributing to open-source software and learning through collaboration.
 
-## Also on my workbench
-
-[Auto File Organizer](https://github.com/amintorbat/auto_file_organizer) · [IoT Edge Sentinel](https://github.com/amintorbat/iot_edge_sentinel)
-
-## Engineering focus
-
-Backend APIs, SQL, authentication and authorization, testing, and debugging — developed through real product work.
+Currently deepening my work in backend APIs, SQL, authorization, testing, and debugging.
