@@ -4,14 +4,14 @@ I build web products and the backend systems behind them.
 
 ## Selected work
 
-### PEYAR · Customer management
+### [PEYAR](work/peyar.md) · Customer management
 
 A CRM for small businesses, bringing customers, sales stages, activity history, and follow-ups into one workspace.
 
 `TypeScript` · `Next.js` · `PostgreSQL` · `Prisma`  
 <sub>Active development · Private source</sub>
 
-### Guardora · Community tools
+### [Guardora](work/guardora.md) · Community tools
 
 Telegram moderation and group management, with persistent settings and permission-aware controls.
 
